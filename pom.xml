@@ -40,7 +40,7 @@
         <springdoc-openapi.version>1.4.3</springdoc-openapi.version>
         <jwt.version>0.9.1</jwt.version>
         <jackson.version>2.13.0</jackson.version>
-        <groovy.version>3.0.8</groovy.version>
+        <groovy.version>3.0.25</groovy.version>
         <selenium.version>4.0.0-rc-2</selenium.version>
         <junit.version>4.12</junit.version>
         <fortify.version>21.2.3</fortify.version>
